@@ -1,0 +1,43 @@
+/venv
+/output
+/schwab_statements
+**/data/*
+**/history_output/*
+**/history_output_highchart/*
+**/__pycache__/*
+**/storage/*
+**/backtests/*
+**/.ipynb_checkpoints/*
+**/backtests/*
+**/optimizations/*
+**/bkup/*
+
+# Visual Studio Code
+**/.vscode/*
+
+# IDEs and editors
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.zip
+
+.pylintrc
+*notes*
+*.txt
+*.csv
+*.json
+*.html
+
+.gitBkup
+
+
